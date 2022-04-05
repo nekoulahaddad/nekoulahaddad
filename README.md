@@ -3,9 +3,9 @@
 - 👀 I’m interested in Web development and machine learning
 --->
 
-<h1>Обо мне</h1> 
-Привет!👋  <br>
-Меня зовут Сергей Машин, я начинающий Frontend разработчик. <br>  
+<h1>About me</h1> 
+-  Hi,👋 I’m Nekoula
+- 👀 I’m interested in Web development and machine learning <br>  
  
 
 <h2>Skills</h2>

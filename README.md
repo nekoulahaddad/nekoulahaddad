@@ -1,8 +1,3 @@
-<!---
--  Hi,👋 I’m Nekoula. Full stack web developer and data scientist
-- 👀 I’m interested in Web development and machine learning
---->
-
 -  Hi,👋 I’m Nekoula. Full stack web developer and data scientist
 
 ### A little info about me
@@ -39,9 +34,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram)](https://www.instagram.com/)
 
 
-<HR>
-<i>Profile info</i>  
-<br>
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nekoulahaddad&&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)

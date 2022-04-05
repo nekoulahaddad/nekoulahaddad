@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web development and machine learning
 --->
 
--  Hi,👋 I’m Nekoula
+-  Hi,👋 I’m Nekoula. Full stack web developer and data scientist
 
 ### A little info about me
 

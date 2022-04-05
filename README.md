@@ -7,7 +7,6 @@
 
 ### A little info about me
 <br>
-
 + PhD student in computer Science at Bauman Moscow State Technical University
 + Polyglot, Fluent Speaker in English, Russian, and Arabic 
 + More than 2.0 Years of experience in IT Industry.

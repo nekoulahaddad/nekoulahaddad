@@ -26,7 +26,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-141130?style=flat-square&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141130?style=flat-square&logo=MongoDB)
 ![Figma](https://img.shields.io/badge/-Figma-141130?style=flat-square&logo=Figma)
-![TypeScript](https://img.shields.io/badge/-Figma-141130?style=flat-square&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-141130?style=flat-square&logo=TypeScript)
 
 <h3>Follow me</h3>
 

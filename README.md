@@ -4,9 +4,9 @@
 
 + PhD student in computer Science at Bauman Moscow State Technical University
 + Polyglot, Fluent Speaker in English, Russian, and Arabic 
-+ More than 4.0 Years of experience in IT Industry.
-+ More than 4.0 Years of experience in Machine learning and Data Analysis.
-+ More than 4.0 Years of experience in Full Stack Web Development.
++ More than 5.0 Years of experience in IT Industry.
++ More than 5.0 Years of experience in Machine learning and Data Analysis.
++ More than 5.0 Years of experience in Full Stack Web Development.
 + More than 10 Publications in reputed journals
 + Conference Speaker and Presenter
 + In-depth understanding of security, SEO, and optimization to maximize site performance.

@@ -2,7 +2,7 @@
 
 ### A little info about me
 
-+ PhD in computer Science at Bauman Moscow State Technical University
++ PhD in computer Science from Bauman Moscow State Technical University
 + Polyglot, Fluent Speaker in English, Russian, and Arabic 
 + More than 5.0 Years of experience in IT Industry.
 + More than 5.0 Years of experience in Machine learning and Data Analysis.
